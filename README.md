@@ -1,5 +1,3 @@
-Creating a README for your GitHub project is an excellent way to explain and showcase your work to others. Here is a template for a README file that you can use and modify according to your project details:
-
 ```markdown
 # Image Gender Classifier Using TensorFlow and ViT
 
